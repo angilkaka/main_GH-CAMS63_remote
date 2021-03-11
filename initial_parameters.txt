@@ -1,0 +1,18 @@
+{'Variables': 'o3_conc',
+      'Set Coords': ['lat', 'lon'],
+      'lon': 'lon',
+      'lat': 'lat',
+      'model': 'animate',
+      'time': 'animate',
+      'frame_height': 370,
+      'frame_width': 400,
+      'colorbar': True,
+      'cmap': 'RdYlBu_r',
+      'is_geo': True,
+      'project':True,
+      'basemap': 'OSM',
+      'crs': 'PlateCarree',
+      'projection': 'Orthographic',
+      'crs params': "{'central_longitude': 0.0}",
+      'projection params': "{'central_longitude': 10, 'central_latitude': 52, 'globe': None}"
+}
