@@ -1,0 +1,7 @@
+xrviz
+panel>=0.7.0
+holoviews
+hvplot
+xarray>=0.14.1
+netcdf4
+datashader
