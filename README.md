@@ -1,4 +1,4 @@
-# CAMS63: Interactive XrViz-based GUI for visually browsing regional CAMS data
+# CAMS63: Interactive XrViz-based GUI for visually browsing in regional CAMS data
  
 
 
