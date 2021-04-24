@@ -3,6 +3,8 @@
 # Install the dependencies
 #conda install -c conda-forge -y python=3.7 geoviews metpy xrviz xarray --file ./requirements.txt
 echo "HALLLOOOO: ich bin hier: `pwd` "
+ls -l ./requirements.txt
+echo "#=============================#"
 conda install -c conda-forge -y python=3.7 geoviews metpy xrviz xarray --file ./requirements.txt
 
 # Get rid of source code
