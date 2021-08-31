@@ -5,3 +5,4 @@ hvplot
 xarray>=0.14.1
 netcdf4
 datashader
+gdown
